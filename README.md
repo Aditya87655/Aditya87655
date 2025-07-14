@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/circular_avatar_bg.gif" alt="Aditya Srivastava Avatar" width="200" style="border-radius: 50%; border: 5px solid #333;">
+  <img src="[https://example.com/circular_avatar_bg.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fcool-background&psig=AOvVaw3tlBxO9EP_tV46Qv3HIcCe&ust=1752606081563000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD0m8-EvY4DFQAAAAAdAAAAABBD)" alt="Aditya Srivastava Avatar" width="200" style="border-radius: 50%; border: 5px solid #333;">
   <br>
   <h2>Hi 👋, I'm Aditya Srivastava</h2>
 </div>
