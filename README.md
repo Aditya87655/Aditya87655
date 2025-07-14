@@ -1,26 +1,102 @@
-💫 About Me:
-Hi, I'm Aditya Srivastava — a final-year B.Tech Computer Science student passionate about full-stack development, AI/ML, and building real-world tech solutions.<br><br>💻 Currently working on an AI-based real-time project<br><br>🛠️ Skilled in JavaScript, React.js, Node.js, Python, Firebase, MongoDB<br><br>🌐 Familiar with cloud platforms like Google Cloud Platform (GCP)<br><br>🧠 Exploring Generative AI, NLP, and Computer Vision<br><br>🏆 Hackathon winner (Best UI/UX – HackQuest’25)<br><br>📫 Reach me at adityasrii2004@gmail.com
+<div align="center">
+  <a href="https://github.com/Aditya87655" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75B22&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aditya+Srivastava!;Full-stack+Developer;AI%2FML+Enthusiast;Building+Real-World+Tech" alt="Typing SVG" />
+  </a>
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.___introvert__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-srivastava-2528ba2a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasrii2004@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya87655&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya87655&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya87655&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya87655&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aditya87655&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrMMLKtxS/giphy.gif" width="200" alt="Coding GIF">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya87655&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me:
+
+Hi, I'm **Aditya Srivastava** — a final-year B.Tech Computer Science student passionate about **full-stack development**, **AI/ML**, and building real-world tech solutions.
+
+- 💻 Currently working on an **AI-based real-time project**
+- 🛠️ Skilled in **JavaScript, React.js, Node.js, Python, Firebase, MongoDB**
+- 🌐 Familiar with cloud platforms like **Google Cloud Platform (GCP)**
+- 🧠 Exploring **Generative AI, NLP, and Computer Vision**
+- 🏆 Hackathon winner (**Best UI/UX – HackQuest’25**)
+- 📫 Reach me at [adityasrii2004@gmail.com](mailto:adityasrii2004@gmail.com)
+
+---
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://instagram.com/mr.___introvert__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/aditya-srivastava-2528ba2a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adityasrii2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya87655&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya87655&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya87655&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya87655&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aditya87655&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Aditya87655&icon=0&color=5" alt="Profile Visits"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya87655/Aditya87655/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
