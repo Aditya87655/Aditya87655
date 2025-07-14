@@ -25,6 +25,15 @@ Hi, I'm **Aditya Srivastava** — a final-year B.Tech Computer Science student p
 
 ---
 
+## 🌱 What I'm Currently Learning/Exploring:
+
+-   Deepening my understanding of **Cloud-native Development** with Kubernetes.
+-   Experimenting with advanced **Generative Adversarial Networks (GANs)**.
+-   Improving my **DevOps practices** for seamless deployment pipelines.
+-   Exploring **WebAssembly (Wasm)** for high-performance web applications.
+
+---
+
 ## 🌐 Socials:
 
 <p align="center">
@@ -73,6 +82,8 @@ Hi, I'm **Aditya Srivastava** — a final-year B.Tech Computer Science student p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya87655&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya87655&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya87655&theme=github-dark-dimmed&hide_border=false&area=true&custom_title=My%20Contribution%20Graph" alt="Aditya's GitHub Activity Graph"/>
 </p>
 
 ---
@@ -99,4 +110,13 @@ Hi, I'm **Aditya Srivastava** — a final-year B.Tech Computer Science student p
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya87655/Aditya87655/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+## 💡 My Philosophy:
+
+<p align="center">
+  <blockquote>"Code is like humor. When you have to explain it, it’s bad." - Cory House</blockquote>
+  <i>(Feel free to replace this with your own favorite quote or a personal mission statement)</i>
 </p>
